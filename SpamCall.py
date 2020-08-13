@@ -1,6 +1,6 @@
 import os, requests, json
 from requests import post
-print ("Code : Safar/Cupu\nFriends : Isi Sendiri\nTools : Spam Call\nNB : Limt 3 x / Hari")
+print ("Code : Safar & NurChan\nFriends : Isi Sendiri\nTools : Spam Call\nNB : Limt 3 x / Hari")
 print('=' *30)
 
 no = input("NoPe|Ex8228823****: ")
